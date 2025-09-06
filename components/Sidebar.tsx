@@ -44,7 +44,9 @@ const Sidebar = ({user}: User) => {
                         )
                     })
                 }
+                USER
             </nav>
+            USER
         </section>
     )
 }
